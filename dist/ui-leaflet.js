@@ -2,6 +2,7 @@
 *  ui-leaflet 1.0.0 2015-10-29
 *  ui-leaflet - An AngularJS directive to easily interact with Leaflet maps
 *  git: https://github.com/angular-ui/ui-leaflet
+*  Forked by Palpatine1991 - isOwnProperty check
 */
 (function(angular){
 'use strict';
